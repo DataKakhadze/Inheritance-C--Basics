@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         public void CallMethodRecall()
         {
-            Console.WriteLine("meore methodi gamodzaxebulia");
+            Console.WriteLine("second method call");
 
             CallMethod();
         }

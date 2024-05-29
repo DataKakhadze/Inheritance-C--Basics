@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         protected void CallMethod()
         {
-            Console.WriteLine("gamodzaxeba");
+            Console.WriteLine("call");
         }
     }
 }
